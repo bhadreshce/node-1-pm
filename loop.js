@@ -1,5 +1,5 @@
 // for (var i = 0; i < 10; i++) {
-//   console.log(i + ' for loop working')
+//   console.log(i)
 // }
 
 // var i = 0
@@ -9,15 +9,8 @@
 // }
 
 // var i = 0
+
 // do {
-//   console.log(i)
+//   console.log('hii')
 //   i++
-
-
-
-     
- 
-
-
-     
 // } while (i < 10)

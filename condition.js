@@ -1,36 +1,53 @@
-// if :
-// var a = '5'
-// if (a < 10) {
-//   if (a === 5) {
-//     console.log(a)
-//   }
-// } else {
-//   console.log('no')
-// }
-
-//if --else if
-
+// var b = 6
 // var a = 5
-// if (a < 10) {
 
-//     console.log('first')
-
-// } else if (a < 7) {
-//   console.log('second')
+// if (a == 6) {
+//   console.log('true')
 // } else {
-//   console.log('non of this')
+//   console.log('false')
 // }
 
-// var fruit = 'apple'
-// switch (fruit) {
+// if (b % 2 == 0) {
+//   console.log('even ')
+// } else {
+//   console.log('odd')
+// }
+
+// if (a == 5) {
+//   if (b == 6) {
+//     console.log('inner')
+//   }
+//   console.log('outer')
+// }
+
+// if (a == 5) {
+//   console.log('1')
+// } else if (a == 5) {
+//   console.log('2')
+// } else {
+//   console.log(3)
+// }
+
+// var f = 'banana'
+
+// switch (f) {
 //   case 'banana':
-//     console.log('banana')
-//     break
-//   case 'mango':
 //     console.log('mango')
 //     break
 
+//   case 'apple':
+//     console.log('banana')
+//     break
+
+//   case 'banana':
+//     console.log('banana')
+//     break
+
 //   default:
-//     console.log('fruit not found')
 //     break
 // }
+
+
+
+
+
