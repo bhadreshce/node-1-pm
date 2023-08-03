@@ -1,10 +1,10 @@
 // var array = [1, 2, 3, 4]
 // var std = [
-//   { name: 'jay', age: 20,mark:45 },
-//   { name: 'jatin', age: 22,mark:55 },
-//   { name: 'jignesh', age: 24,mark:60 },
+//   { name: 'jay', age: 20, mark: 45 },
+//   { name: 'jatin', age: 22, mark: 55 },
+//   { name: 'jignesh', age: 24, mark: 60 },
 // ]
-//map
+// //map
 // var student = std.map((s) => {
 //   return { name: s.name + ' patel', age: s.age }
 // })
@@ -25,14 +25,16 @@
 //   { name: 'jignesh', age: 9, mark: 60 },
 // ]
 
-// var student = std.filter((res) => {
-//   return res.age < 20 && res.age > 10
+// var student = std.filter((obj) => {
+//   return obj.name == 'jatin'
 // })
 
-console.log(student)
+// console.log(student)
 //reduce
+
+// var array = [1, 2, 3, 4]
 // var c = array.reduce((a, b) => {
-//   return a - b
+//   return a + b
 // })
 
 // console.log(c)
@@ -43,9 +45,10 @@ console.log(student)
 // array.pop()
 // array.pop()
 //array.length
+// var array = [1, 2, 3, 4, 'bhadresh']
 
-// var c = array.join('/')
-
+// var c = array.join(' \n')
+// console.log(c)
 // var c = array.reverse()
 
 //decending

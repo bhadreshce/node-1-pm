@@ -8,7 +8,7 @@ var nameN = 'JAhesh patel'
 // var n = nameN.toUpperCase()  lower to upper
 // var n = nameN.charAt(7) check char at specific index
 // var n = nameN.endsWith('h') check if end with particular char
-// var n = nameN.startsWith('JA') CHECK IF START WITH PARTICULAR WORD
+// var n = nameN.startsWith('JA') CHECK I   F START WITH PARTICULAR WORD
 // var n = nameN.replace('h', 'A')
 // var n = nameN.replaceAll('h', 'A')
 console.log(n)
